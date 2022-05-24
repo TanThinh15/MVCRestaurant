@@ -5,7 +5,7 @@
 1. Asp.net core MVC
 2. EF Core
 3. Bootstrap
-# Các tính năng ở Admin Panel
+# Các tính năng ở Admin 
 1. Thêm, xóa, sửa
 2. Tìm kiếm loại món
 3. Lọc theo danh mục
